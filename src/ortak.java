@@ -10,7 +10,7 @@ public class ortak {
 
         System.out.println("Vaziyet aldık bekliyoruz");
         System.out.println("Az sonra buralar karışacak. Vaziyet alın!");
-
+        System.out.println("yenıden göderımmm");
 
 
     }

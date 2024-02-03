@@ -7,7 +7,7 @@ public class ortak {
         System.out.println("Hele bakin, kim gelmis");
         System.out.println("Ben Murat Ben Geldim");
 
-
+        System.out.println("Vaziyet aldık bekliyoruz");
 
 
     }

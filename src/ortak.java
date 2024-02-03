@@ -3,6 +3,10 @@ public class ortak {
         System.out.println("Ne yaparsan yap.AŞK ile Yap!");
 
         System.out.println("Hele bakin, kim gelmis");
+        System.out.println("Ben Murat Ben Geldim");
+
+
+
     }
 
 }
